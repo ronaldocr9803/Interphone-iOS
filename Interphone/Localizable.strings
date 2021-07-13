@@ -1,0 +1,10 @@
+/*
+  Locallizable.strings
+  ios-template-app
+
+  Created by OpenYourEyes on 05/01/2021.
+  
+*/
+"app_name" = "Template app";
+"OK" = "OK";
+"NO" = "NO";
